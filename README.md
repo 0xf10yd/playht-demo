@@ -28,7 +28,7 @@ Answer *Y* on the prompt that asks you to reconfigure the studio, and follow the
 
 5. Adding Speech Synthesis preview
 
-If you want the preview button for editor to work, you'll have to add [a token for Google’s text-to-speech API](https://console.cloud.google.com/apis/api/texttospeech.googleapis.com/credentials) in [`schemas/ssml-editor/PreviewButton.js`](https://github.com/0xf10yd/playht-demo-init/blob/master/schemas/ssml-editor/PreviewButton.js#L7).
+If you want the preview button for editor to work, you'll have to add [a token for Google’s text-to-speech API](https://console.cloud.google.com/apis/api/texttospeech.googleapis.com/credentials) in [`schemas/ssml-editor/PreviewButton.js`](https://github.com/0xf10yd/playht-demo/blob/master/schemas/ssml-editor/PreviewButton.js#L7).
 
 6. To start the studio locally:
 
